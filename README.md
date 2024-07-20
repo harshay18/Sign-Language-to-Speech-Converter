@@ -6,6 +6,9 @@ This project aims to address the communication gap between the deaf and dumb com
 
 The Arduino then performs analog-to-digital conversion on the received sensor data, compares it with the pre-stored values corresponding to specific sign language gestures, and finally Playing corresponding message Audio File. This system allows non-sign language users to understand and communicate with the deaf and dumb population easily.
 
+# Circuit Diagram
+![My Image](Images/Circuit-Diagram-696x453.png)
+
 ## Components
 
 - Flex Sensors: These sensors are used to detect the amount of bend on the fingers during sign language gestures.
@@ -30,6 +33,8 @@ The Arduino then performs analog-to-digital conversion on the received sensor da
 
 5. Once a match is found, the corresponding audio file is played stored in SD card .
 
+# Project Image
+![My Image](Images/Project_Image.jpeg)
 
 
 ## Setup and Installation
