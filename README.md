@@ -13,7 +13,7 @@ The Arduino then performs analog-to-digital conversion on the received sensor da
 
 - Flex Sensors: These sensors are used to detect the amount of bend on the fingers during sign language gestures.
 
-- Arduino Uno Board: The Arduino acts as the control unit, receiving data from the flex sensors, processing it, and displaying the results on the LCD.
+- Arduino Board: The Arduino acts as the control unit, receiving data from the flex sensors, processing it, and displaying the results on the LCD.
 
 - DF Mini Player:  Module designed to play audio files from a microSD card. It supports various audio formats, including MP3, WAV, and WMA. 
 
