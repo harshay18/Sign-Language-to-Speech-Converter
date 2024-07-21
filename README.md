@@ -1,4 +1,4 @@
-# Sign Language to Text Conversion System using Flex Sensors and Arduino
+# Sign Language to Text Conversion System using Flex Sensors and Arduino 
 
 ## Introduction
 
